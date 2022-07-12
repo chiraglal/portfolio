@@ -7,7 +7,7 @@ const Work = () => {
       className="bg-[#0a192f] w-full md:h-screen text-gray-300"
     >
       <div className="max-w-[1000px] mx-auto flex flex-col justify-center p-4 w-full h-full">
-        <div className="pb-8">
+        <div className="pb-8 sm:text-center">
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600">
             Projects
           </p>
