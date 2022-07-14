@@ -21,18 +21,18 @@ const Contact = () => {
           type="text"
           placeholder="Name"
           name="name"
-          className="bg-[#ccd6f6] p-2"
+          className="bg-[#ccd6f6] p-2 rounded-sm"
         />
         <input
           type="email"
           placeholder="Email"
           name="name"
-          className="my-4 p-2 bg-[#ccd6f6]"
+          className="my-4 p-2 bg-[#ccd6f6] rounded-sm"
         />
         <textarea
           name="message"
           rows="10"
-          className="bg-[#ccd6f6] p-2"
+          className="bg-[#ccd6f6] p-2 rounded-sm"
           placeholder="Type your message..."
         ></textarea>
         <button className="text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 mx-auto flex items-center my-8 rounded-md">
