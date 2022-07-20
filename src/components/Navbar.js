@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import { FaBars, FaTimes, FaGithub, FaLinkedin, FaMail } from "react-icons/fa";
-import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import { FaBars, FaTimes } from "react-icons/fa";
 import Logo from "../assets/logo.png";
 import { Link } from "react-scroll";
 const Navbar = () => {
@@ -12,12 +10,7 @@ const Navbar = () => {
   return (
     <div className="w-full fixed flex justify-between items-center px-4 bg-[#0a192f] h-[80px] text-gray-300">
       <div>
-        <img
-          src={Logo}
-          alt="Logo Image"
-          style={{ width: "50px" }}
-          className="rounded-full"
-        />
+        <img src={Logo} style={{ width: "50px" }} className="rounded-full" />
       </div>
       {/* menu */}
       <ul className="hidden md:flex">
@@ -116,7 +109,7 @@ const Navbar = () => {
         </li>
       </ul>
       {/* Social icons */}
-      <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
+      {/* <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
         <ul>
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
@@ -163,7 +156,7 @@ const Navbar = () => {
             </a>
           </li>
         </ul>
-      </div>
+      </div> */}
     </div>
   );
 };
