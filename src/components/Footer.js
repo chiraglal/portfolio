@@ -44,7 +44,7 @@ const Footer = () => {
           >
             <i class="fa-solid fa-file-arrow-down"></i>
           </a>
-          Download CV
+          Resume
         </p>
       </div>
     </div>
