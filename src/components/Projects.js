@@ -63,7 +63,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS App
+                  React JS + Tailwind App
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -194,8 +194,8 @@ const Work = () => {
             <div>
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
-                <span className="text-xl font-bold text-white tracking-wider p-auto">
-                  React + Tailwind App
+                <span className="text-2xl font-bold text-white tracking-wider p-auto">
+                  React JS + Tailwind App
                 </span>
                 <div className="pt-8 text-center">
                   <a
