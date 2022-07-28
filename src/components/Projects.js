@@ -30,7 +30,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS App
+                  Weather App | React JS App
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -55,6 +55,40 @@ const Work = () => {
               </div>
             </div>
           </div>
+
+          <div
+            style={{ backgroundImage: `url(${FoodWebsite})` }}
+            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center mx-auto content-div"
+          >
+            <div>
+              {/* Hover Effects */}
+              <div className="opacity-0 group-hover:opacity-100">
+                <span className="text-2xl font-bold text-white tracking-wider p-auto">
+                  Food Website | React JS + Tailwind App
+                </span>
+                <div className="pt-8 text-center">
+                  <a
+                    href="https://react-tailwind-food-website.vercel.app/"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                      Demo
+                    </button>
+                  </a>
+                  <a
+                    href="https://github.com/chiraglal/react-tailwind-food-website"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
+                      Code
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
           <div
             style={{ backgroundImage: `url(${Loginpage})` }}
             className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center mx-auto content-div"
@@ -63,7 +97,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS + Tailwind App
+                  Front End Login Page | React JS + Tailwind App
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -96,7 +130,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  HTML CSS JS App
+                  Notes App | HTML CSS JS App
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -129,7 +163,7 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  React JS App
+                  Random Quote Generator | React JS App
                 </span>
                 <div className="pt-8 text-center">
                   <a
@@ -176,39 +210,6 @@ const Work = () => {
                   </a>
                   <a
                     href="https://github.com/chiraglal/Web-Dev-Projects/tree/main/Todo%20App"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Code
-                    </button>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div
-            style={{ backgroundImage: `url(${FoodWebsite})` }}
-            className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center mx-auto content-div"
-          >
-            <div>
-              {/* Hover Effects */}
-              <div className="opacity-0 group-hover:opacity-100">
-                <span className="text-2xl font-bold text-white tracking-wider p-auto">
-                  React JS + Tailwind App
-                </span>
-                <div className="pt-8 text-center">
-                  <a
-                    href="https://react-tailwind-food-website.vercel.app/"
-                    rel="noreferrer"
-                    target="_blank"
-                  >
-                    <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
-                      Demo
-                    </button>
-                  </a>
-                  <a
-                    href="https://github.com/chiraglal/react-tailwind-food-website"
                     rel="noreferrer"
                     target="_blank"
                   >
