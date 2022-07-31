@@ -38,7 +38,7 @@ const About = () => {
           </div>
           <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-12">
             <div className="text-xl sm:text-right">
-              <p className="text-center px-12">
+              <p className="">
                 <p className="font-bold">
                   Guru Nanak Institute of Technology, Kolkata, West Bengal
                 </p>
@@ -49,7 +49,7 @@ const About = () => {
                 <p className="p-2">(Nov 2020 - Jul 2024)</p>
               </p>
             </div>
-            <div className="text-lg text-center">
+            <div className="text-lg">
               <p className="font-bold">
                 Indira Gandhi Memorial Senior Secondary School, Kolkata, West
                 Bengal
