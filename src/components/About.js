@@ -36,9 +36,9 @@ const About = () => {
               </p>
             </div>
           </div>
-          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-12">
+          <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 pb-20 pl-4">
             <div className="text-xl sm:text-right">
-              <p className="">
+              <p>
                 <p className="font-bold">
                   Guru Nanak Institute of Technology, Kolkata, West Bengal
                 </p>
