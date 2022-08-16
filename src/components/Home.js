@@ -15,7 +15,7 @@ const Home = () => {
         </h2>
         <p className="text-[#8892b0] py-4 max-w[700px]">
           I'm Chirag, a third-year student at Guru Nanak Institute of
-          Technology, passionate about programming and technology.
+          Technology, passionate about Programming and Technology.
         </p>
         <div>
           <Link to="projects">
