@@ -40,7 +40,8 @@ const About = () => {
             <div className="text-xl sm:text-right">
               <p>
                 <p className="font-bold">
-                  Guru Nanak Institute of Technology, Kolkata, West Bengal
+                  Guru Nanak Institute of Technology,
+                  <br /> Kolkata, West Bengal
                 </p>
                 <p className="p-2">
                   Bachelor of Technology - BTech, Electronics and Communication
