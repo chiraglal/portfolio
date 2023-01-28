@@ -15,7 +15,7 @@ const Contact = () => {
           <p className="text-4xl border-b-4 border-pink-600 inline font-bold text-gray-300">
             Contact
           </p>
-          <p className="text-gray-300 p-4">Get in Touch</p>
+          <p className="text-gray-300 p-4 font-mono">Get in Touch</p>
         </div>
         <input
           type="text"
@@ -35,7 +35,7 @@ const Contact = () => {
           className="bg-[#ccd6f6] p-2 rounded"
           placeholder="Type your message..."
         ></textarea>
-        <button className="text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 mx-auto flex items-center my-8 rounded-md">
+        <button className="font-mono text-white border-2 hover:bg-pink-600 hover:border-pink-600 px-4 py-3 mx-auto flex items-center my-8 rounded-md">
           Let's Collaborate
         </button>
       </form>

@@ -13,7 +13,7 @@ const Navbar = () => {
         <img src={Logo} style={{ width: "50px" }} className="rounded-full" />
       </div>
       {/* menu */}
-      <ul className="hidden md:flex">
+      <ul className="hidden md:flex font-mono">
         <li className="hover:underline hover:underline-offset-4">
           <Link to="home" spy={true} smooth={true} duration={500}>
             Home

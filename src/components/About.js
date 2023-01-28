@@ -18,7 +18,7 @@ const About = () => {
                 Hi. I'm Chirag, nice to meet you. Please take a look around.
               </p>
             </div>
-            <div className="text-lg">
+            <div className="text-lg font-mono">
               I am a highly motivated individual and I've acquired skill in
               Front-end web Development. Currently I am in search of obtaining a
               responsible career opportunity to utilize my skills, while making
@@ -43,11 +43,11 @@ const About = () => {
                   Guru Nanak Institute of Technology,
                   <br /> Kolkata, West Bengal
                 </p>
-                <p className="p-2">
+                <p className="p-2 font-mono">
                   Bachelor of Technology - BTech, Electronics and Communication
                   Engineering
                 </p>
-                <p className="p-2">(Nov 2020 - Jul 2024)</p>
+                <p className="p-2 font-mono">(Nov 2020 - Jul 2024)</p>
               </p>
             </div>
             <div className="text-lg">
@@ -55,10 +55,10 @@ const About = () => {
                 Indira Gandhi Memorial Senior Secondary School, Kolkata, West
                 Bengal
               </p>
-              <p className="p-2">
+              <p className="p-2 font-mono">
                 Senior Secondary, Mathematics and Computer Science
               </p>
-              <p className="p-2">(April 2006 - May 2020)</p>
+              <p className="p-2 font-mono">(April 2006 - May 2020)</p>
             </div>
           </div>
         </div>
