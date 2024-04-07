@@ -50,11 +50,6 @@ const Skills = () => {
               <p>Tailwind</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={Bootstrap} alt="HTML Icon" className="w-20 mx-auto" />
-              <p>Bootstrap</p>
-            </div>
-
-            <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
               <img src={Material} alt="HTML Icon" className="w-20 mx-auto" />
               <p>Material UI</p>
             </div>
