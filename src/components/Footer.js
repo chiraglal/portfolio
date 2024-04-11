@@ -38,7 +38,7 @@ const Footer = () => {
         </p>
         <p className="flex flex-col items-center">
           <a
-            href="https://drive.google.com/file/d/1NI19jR9SS4S1Qh_xkrIT8y5ADFUIqPRn/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1QrYotH6U6aR0sdLpt0GfRi-szjcT2bj6/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >

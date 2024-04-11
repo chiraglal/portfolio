@@ -5,11 +5,11 @@ import JavaScript from "../assets/javascript.png";
 import ReactImg from "../assets/react.png";
 import Tailwind from "../assets/tailwind.png";
 import GitHub from "../assets/github.png";
-import Bootstrap from "../assets/bootstrap.png";
 import Material from "../assets/material.png";
 import Python from "../assets/python.png";
 import SQL from "../assets/sql.png";
 import Java from "../assets/java.png";
+import Nextjs from "../assets/nextjs.png";
 const Skills = () => {
   return (
     <div name="skills" className="bg-[#0a192f] text-gray-300 w-full h-screen">
@@ -20,7 +20,7 @@ const Skills = () => {
             Skills
           </p>
           <p className="py-4 font-mono">
-            These are the technologies i have worked with
+            These are the technologies I have worked with...
           </p>
         </div>
         <div>
@@ -30,39 +30,63 @@ const Skills = () => {
               <p>HTML</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={CSS} alt="HTML Icon" className="w-20 mx-auto" />
+              <img src={CSS} alt="CSS Icon" className="w-20 mx-auto" />
               <p>CSS</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={JavaScript} alt="HTML Icon" className="w-20 mx-auto" />
+              <img
+                src={JavaScript}
+                alt="Javascript Icon"
+                className="w-20 mx-auto"
+              />
               <p>JavaScript</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={ReactImg} alt="HTML Icon" className="w-20 mx-auto" />
+              <img
+                src={ReactImg}
+                alt="React.js Icon"
+                className="w-20 mx-auto"
+              />
               <p>React JS</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={GitHub} alt="HTML Icon" className="w-20 mx-auto" />
+              <img
+                src={Nextjs}
+                alt="Next.js Icon"
+                className="w-36 rounded-md p-4 mx-auto flex justify-between items-center top-4 bg-white"
+              />
+              <p className="">Next JS</p>
+            </div>
+            <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
+              <img src={GitHub} alt="Github Icon" className="w-20 mx-auto" />
               <p>Github</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={Tailwind} alt="HTML Icon" className="w-20 mx-auto" />
+              <img
+                src={Tailwind}
+                alt="Tailwind Icon"
+                className="w-20 mx-auto"
+              />
               <p>Tailwind</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={Material} alt="HTML Icon" className="w-20 mx-auto" />
+              <img
+                src={Material}
+                alt="Material UI Icon"
+                className="w-20 mx-auto"
+              />
               <p>Material UI</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={Java} alt="HTML Icon" className="w-20 mx-auto" />
+              <img src={Java} alt="Java Icon" className="w-20 mx-auto" />
               <p>Java</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={Python} alt="HTML Icon" className="w-20 mx-auto" />
+              <img src={Python} alt="Python Icon" className="w-20 mx-auto" />
               <p>Python</p>
             </div>
             <div className="shadow-md hover:scale-110 duration-500 shadow-[#040c16]">
-              <img src={SQL} alt="HTML Icon" className="w-20 mx-auto" />
+              <img src={SQL} alt="SQL Icon" className="w-20 mx-auto" />
               <p>SQL</p>
             </div>
           </div>

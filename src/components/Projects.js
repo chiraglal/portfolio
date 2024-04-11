@@ -30,11 +30,11 @@ const Work = () => {
               {/* Hover Effects */}
               <div className="opacity-0 group-hover:opacity-100 ease-in-out duration-300">
                 <span className="text-2xl font-bold text-white tracking-wider">
-                  Admin Dashboard | React JS +Tailwind CSS App
+                  Admin Dashboard | Next JS +Tailwind CSS App
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://react-admin-dashboard-lemon-omega.vercel.app/"
+                    href="https://nextjs-dashboard-seven-ruby-24.vercel.app/"
                     rel="noreferrer"
                     target="_blank"
                   >
@@ -43,7 +43,7 @@ const Work = () => {
                     </button>
                   </a>
                   <a
-                    href="https://github.com/chiraglal/react-admin-dashboard"
+                    href="https://github.com/chiraglal/nextjs-dashboard"
                     rel="noreferrer"
                     target="_blank"
                   >
