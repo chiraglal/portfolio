@@ -101,7 +101,7 @@ const Work = () => {
                 </span>
                 <div className="pt-8 text-center">
                   <a
-                    href="https://login-page-reactjs.netlify.app/"
+                    href="https://frontend-login-page-reactjs.netlify.app/"
                     rel="noreferrer"
                     target="_blank"
                   >
