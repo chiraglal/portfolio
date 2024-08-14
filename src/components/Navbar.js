@@ -10,7 +10,12 @@ const Navbar = () => {
   return (
     <div className="w-full fixed flex justify-between items-center px-4 bg-[#0a192f] h-[80px] text-gray-300">
       <div>
-        <img src={Logo} style={{ width: "50px" }} className="rounded-full" />
+        <img
+          src={Logo}
+          style={{ width: "50px" }}
+          className="rounded-full"
+          alt="My Logo"
+        />
       </div>
       {/* menu */}
       <ul className="hidden md:flex font-mono">
