@@ -13,7 +13,7 @@ const Home = () => {
           I am a Front-End Web Developer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w[700px] font-mono">
-          I'm Chirag, a third-year student at Guru Nanak Institute of
+          I'm Chirag, an ECE Graduate of Guru Nanak Institute of
           Technology, passionate about Programming and Technology.
         </p>
         <div>
