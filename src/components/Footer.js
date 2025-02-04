@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="flex flex-row p-4 text-lg my-4 space-x-6 font-semibold">
         <p className="flex flex-col items-center">
           <a
-            href="https://www.linkedin.com/in/chirag-lal-141a0b19b/"
+            href="https://www.linkedin.com/in/chirag-lal"
             target="_blank"
             rel="noreferrer"
           >
